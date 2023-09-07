@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ... Microservices along with C# and SQL 
+
 <!--
 **sushantcivil/sushantcivil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
